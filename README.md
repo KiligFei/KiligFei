@@ -1,4 +1,3 @@
-![](https://github.com/KiligFei/KiligFei/blob/main/header.png)
 
 ### Hi there，I'm crush 👋
 
