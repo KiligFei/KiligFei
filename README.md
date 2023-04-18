@@ -7,11 +7,9 @@
 :heart: Recommend
 <div align="center">
   <a href="https://github.com/KiligFei/fix-deprecated-api">
-    <img width="45%" hei src="https://github-readme-stats.vercel.app/api/pin/?username=KiligFei&repo=fix-deprecated-api&theme=dark&bg_color=0d1117&hide_border=true" />
-  </a>
+    <img width="45%" hei src="https://github-readme-stats.vercel.app/api/pin/?username=KiligFei&repo=fix-deprecated-api&theme=dark&bg_color=0d1117&hide_border=true" /></a>
   <a href="https://github.com/KiligFei/plum-demo">
-    <img width="45%" hei src="https://github-readme-stats.vercel.app/api/pin/?username=KiligFei&repo=plum-demo&theme=dark&bg_color=0d1117&hide_border=true" />
-  </a>
+    <img width="45%" hei src="https://github-readme-stats.vercel.app/api/pin/?username=KiligFei&repo=plum-demo&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
 ![img](./profile-snake-contrib/github-contribution-grid-snake.svg)
