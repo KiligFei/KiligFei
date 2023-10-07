@@ -18,7 +18,12 @@
     <img width="45%" hei src="https://github-readme-stats.vercel.app/api/pin/?username=KiligFei&repo=plum-demo&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
-![img](./github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KiligFei/KiligFei/main/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KiligFei/KiligFei/main/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KiligFei/KiligFei/main/github-contribution-grid-snake.svg">
+</picture>
+
 
 🧰 Tools:
 
