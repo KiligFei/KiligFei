@@ -18,11 +18,7 @@
     <img width="45%" hei src="https://github-readme-stats.vercel.app/api/pin/?username=KiligFei&repo=plum-demo&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![img](./github-contribution-grid-snake.svg)
 
 🧰 Tools:
 
