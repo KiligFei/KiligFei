@@ -1,8 +1,10 @@
-### Hi there，I'm KiligFei 👋
+<h1 align="left">
+ <img src="https://readme-typing-svg.herokuapp.com?color=0eb0c9&lines=Hi there，I'm KiligFei 👋"> 
+</h1>
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com?color=244DF7A9&lines=welcome+to+my+GitHub"> 
+ <img src="https://readme-typing-svg.herokuapp.com?color=45b787&lines=welcome+to+my+GitHub"> 
 </h1>
 
 :heart: Recommend
