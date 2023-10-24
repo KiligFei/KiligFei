@@ -1,5 +1,5 @@
 <h1 align="left">
- <img src="https://readme-typing-svg.herokuapp.com?color=0eb0c9&lines=Hi there，I'm KiligFei 👋"> 
+ <img src="https://readme-typing-svg.herokuapp.com?color=0eb0c9&lines=Hi+there+,+I'm+KiligFei 👋"> 
 </h1>
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
