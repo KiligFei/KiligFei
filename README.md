@@ -1,25 +1,19 @@
-<h1 align="left" style="color: #0eb0c9">
-  Hi there，I'm KiligFei 👋
-</h1>
-
 <!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div> -->
 <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?color=45b787&lines=welcome+to+my+GitHub"> 
 </h1>
 
+## About Me
+
+Frontend engineer focused on tooling, automation, and developer experience.
+
+- Build practical open-source tools for real workflows
+- Improve DX and performance in frontend projects
+- Keep things simple, maintainable, and fast
+
+---
+
 :heart: Recommend
-
-<div align="center">
-<a href="https://github.com/KiligFei/kilig.compoents">
-    <img width="45%" hei src="https://github-readme-stats.vercel.app/api/pin/?username=KiligFei&repo=kilig.compoents&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-  <a href="https://github.com/KiligFei/kilig.me">
-    <img width="45%" hei src="https://github-readme-stats.vercel.app/api/pin/?username=KiligFei&repo=kilig.me&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-  <a href="https://github.com/KiligFei/fix-deprecated-api">
-    <img width="45%" hei src="https://github-readme-stats.vercel.app/api/pin/?username=KiligFei&repo=fix-deprecated-api&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-  <a href="https://github.com/KiligFei/plum-demo">
-    <img width="45%" hei src="https://github-readme-stats.vercel.app/api/pin/?username=KiligFei&repo=plum-demo&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KiligFei/KiligFei/main/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KiligFei/KiligFei/main/github-contribution-grid-snake.svg">
